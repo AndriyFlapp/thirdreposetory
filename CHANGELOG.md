@@ -1,0 +1,2 @@
+added CHANGELOG
+updated README
